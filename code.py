@@ -12,7 +12,9 @@ def parse_page(*args, **kwargs):
         pass
 
 
-def sidhu_moosewala_songs(): pass
+def sidhu_moosewala_songs():
+    url = "https://gaana.com/playlist/gaana-dj-best-of-sidhu-moosewala"
+    pass
 
 
 if __name__ == '__main__':
